@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wastll
 - 👀 I’m interested in computer science and math
-- 🌱 I’m currently learning Julia for scientific computing
+- 🌱 I’m currently working on "LaneShooter" a semi-3D pixel art shooter
 - 📫 How to reach me: Email: andrej.luth@gmail.com
 
 <!---
